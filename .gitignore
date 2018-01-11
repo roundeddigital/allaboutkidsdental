@@ -1,18 +1,21 @@
 *.log
-wp-config.php
-wp-content/advanced-cache.php
-wp-content/backup-db/
-wp-content/backups/
-wp-content/blogs.dir/
-wp-content/cache/
-wp-content/upgrade/
-wp-content/uploads/
-wp-content/wp-cache-config.php
-wp-content/plugins/hello.php
+allaboutkidsdental.dev/wp-config.php
+allaboutkidsdental.dev/wp-content/advanced-cache.php
+allaboutkidsdental.dev/wp-content/backup-db/
+allaboutkidsdental.dev/wp-content/backups/
+allaboutkidsdental.dev/wp-content/ai1wm-backups/
+allaboutkidsdental.dev/wp-content/envato-backups/
+allaboutkidsdental.dev/wp-content/blogs.dir/
+allaboutkidsdental.dev/wp-content/cache/
+allaboutkidsdental.dev/wp-content/upgrade/
+allaboutkidsdental.dev/wp-content/uploads/
+allaboutkidsdental.dev/wp-content/wp-cache-config.php
+allaboutkidsdental.dev/wp-content/plugins/hello.php
 
-/.htaccess
-/license.txt
-/readme.html
-/sitemap.xml
-/sitemap.xml.gz
+allaboutkidsdental.dev/.htaccess
+allaboutkidsdental.dev/license.txt
+allaboutkidsdental.dev/readme.html
+allaboutkidsdental.dev/sitemap.xml
+allaboutkidsdental.dev/sitemap.xml.gz
 
+.DS_store
